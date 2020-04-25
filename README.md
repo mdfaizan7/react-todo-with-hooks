@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  React - BitConnect App
+  React - Todo App
 </h1>
 
 This is the complete code for a simple todo app, made with hooks.
